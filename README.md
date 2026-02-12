@@ -1,8 +1,10 @@
-<img src="./src-tauri/icons/128x128.png" alt="AppMixer 图标" />
+<img src="./src-tauri/icons/icon.png" width="100" alt="AppMixer 图标" />
 
 ## AppMixer
 
-可视化控制应用程序的音量。
+a dmeo.
+
+使用tauri构建的可视化控制应用程序音量的软件。
 
 **构建指令：**
 
